@@ -18,6 +18,8 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruthsan345&layout=compact&hide=html" alt="ruthsan345" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ruthsan345&show_icons=true" alt="ruthsan345" /></p>
+
 <p align="center">
 <a href="https://linkedin.com/in/ruthsan-r-9948b8176" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ruthsan-r-9948b8176" height="30" width="30" /></a>
 <a href="https://stackoverflow.com/users/ruthsan r" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="ruthsan r" height="30" width="30" /></a>
