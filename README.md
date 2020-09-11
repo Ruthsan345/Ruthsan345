@@ -1,5 +1,5 @@
 <div>
-  <center><img src="https://i.pinimg.com/originals/e1/f3/41/e1f3413bf5036045713341394f617225.gif" height = "450" width="700" align="center"></center>
+  <center>&nbsp;&nbsp;&nbsp;<img src="https://i.pinimg.com/originals/e1/f3/41/e1f3413bf5036045713341394f617225.gif" height = "450" width="700" align="center"></center>
 </div>
 <h1 align="center">Hi 👋, I'm Ruthsan R Jeyabal</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
