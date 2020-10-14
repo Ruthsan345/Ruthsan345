@@ -7,6 +7,7 @@
 <a href="https://linkedin.com/in/ruthsan-r-9948b8176/" target="blank" ><img align="center" alt="Ruthsan | LinkedIn" width="30px" height="30" src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Linkedin.svg" style="max-width:100%;"></a>&nbsp;
 <a href="https://www.instagram.com/ruthsan_r_jeyabal/" target="blank" ><img align="center" alt="Ruthsan | Instagram" width="30px" height="30" src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Instagram.svg" style="max-width:100%;"></a>&nbsp;
  <a href="https://twitter.com/ruthsan_r/" target="blank" ><img align="center" alt="Aravind | Twitter" width="30px" height="30" src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Twitter.svg" style="max-width:100%;"></a>&nbsp;
+  <a href="https://stackoverflow.com/users/ruthsan r" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="ruthsan r" height="30" width="30" /></a>
   </p>
   &nbsp;
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ruthsan345" alt="ruthsan345" /> </p>
@@ -27,6 +28,6 @@
 
 <p align="center">
 
-<a href="https://stackoverflow.com/users/ruthsan r" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="ruthsan r" height="30" width="30" /></a>
+
 
 </p>
