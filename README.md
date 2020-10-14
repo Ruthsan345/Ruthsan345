@@ -4,9 +4,9 @@
 <h1 align="center">Hi 👋, I'm Ruthsan R Jeyabal</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/aravindh020/" target="blank" ><img align="center" alt="Aravind | LinkedIn" width="30px" height="30" src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Linkedin.svg" style="max-width:100%;"></a>&nbsp;
-<a href="https://www.instagram.com/aravindh.exe/" target="blank" ><img align="center" alt="Aravind | Instagram" width="30px" height="30" src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Instagram.svg" style="max-width:100%;"></a>&nbsp;
- <a href="https://twitter.com/aravindh020/" target="blank" ><img align="center" alt="Aravind | Twitter" width="30px" height="30" src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Twitter.svg" style="max-width:100%;"></a>&nbsp;
+<a href="https://linkedin.com/in/ruthsan-r-9948b8176/" target="blank" ><img align="center" alt="Ruthsan | LinkedIn" width="30px" height="30" src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Linkedin.svg" style="max-width:100%;"></a>&nbsp;
+<a href="https://www.instagram.com/ruthsan_r_jeyabal/" target="blank" ><img align="center" alt="Ruthsan | Instagram" width="30px" height="30" src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Instagram.svg" style="max-width:100%;"></a>&nbsp;
+ <a href="https://twitter.com/ruthsan_r/" target="blank" ><img align="center" alt="Aravind | Twitter" width="30px" height="30" src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Twitter.svg" style="max-width:100%;"></a>&nbsp;
   </p>
   &nbsp;
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ruthsan345" alt="ruthsan345" /> </p>
@@ -26,7 +26,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ruthsan345&show_icons=true" alt="ruthsan345" /></p>
 
 <p align="center">
-<a href="https://linkedin.com/in/ruthsan-r-9948b8176" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ruthsan-r-9948b8176" height="30" width="30" /></a>
+
 <a href="https://stackoverflow.com/users/ruthsan r" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="ruthsan r" height="30" width="30" /></a>
-<a href="https://instagram.com/https://www.instagram.com/ruthsan_r_jeyabal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/ruthsan_r_jeyabal" height="30" width="30" /></a>
+
 </p>
